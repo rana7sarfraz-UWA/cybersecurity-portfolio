@@ -9,3 +9,5 @@ Windows uses BitLocker to encrypt the entire hard drive. This ensures that if a 
 Smartphones also use built-in encryption to protect files, photos and personal information.
 
 Offline encryption protects data even when the device is not connected to the internet.
+
+Photos used are examples of file encryption.
