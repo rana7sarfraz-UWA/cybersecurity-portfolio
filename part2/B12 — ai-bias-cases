@@ -1,0 +1,10 @@
+B12 — AI Bias Cases
+Case 1: Gender-based bias
+
+The AI tends to associate certain careers with specific genders (e.g. male-dominated technical roles and female-dominated caregiving roles), showing a tendency toward stereotypical reasoning.
+
+Case 2: Cultural/Nationality bias
+
+The AI may generalise or rank countries or groups in a way that lacks evidence, demonstrating potential bias in training data and representation.
+
+While explicit bias was not strongly observed in all responses, the experiment highlights that AI outputs can still reflect subtle framing effects or training-data tendencies. This reinforces the importance of critical evaluation when using generative AI systems.
